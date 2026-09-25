@@ -1,0 +1,12 @@
+{
+  "slope_weight": 0.2,
+  "tpi_weight": 0.2,
+  "trd_weight": 0.2,
+  "roughness_weight": 0.2,
+  "ecv_weight": 0.2,
+  "kt_weight": 0.2,
+  "curvature_weight": 0.2,
+  "congestion_penalty_weight": 0.2,
+  "upstream_consistency_weight": 0.2
+}
+

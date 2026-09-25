@@ -1,0 +1,10 @@
+name: mfgb
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.24
+  - pip
+  - pip:
+      - bayesian-optimization>=1.4
+
